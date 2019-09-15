@@ -15,9 +15,9 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/full_kiwi.mk \
-    $(LOCAL_DIR)/lineage_kiwi.mk
+    $(LOCAL_DIR)/arrow_kiwi.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_kiwi-userdebug \
-    lineage_kiwi-user \
-    lineage_kiwi-eng
+    arrow_kiwi-userdebug \
+    arrow_kiwi-user \
+    arrow_kiwi-eng
